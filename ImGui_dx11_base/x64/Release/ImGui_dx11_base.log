@@ -1,10 +1,10 @@
 ﻿  main.cpp
-C:\Users\Vincent\Desktop\src\dx11\ImGui_dx11_base\ImGui_dx11_base\src\main.cpp(25,30): warning C4100: „hInstance“: nicht referenzierter Parameter
+C:\Users\Vincent\Desktop\ax-services.net\DX11_ImGui-Base\ImGui_dx11_base\src\main.cpp(25,30): warning C4100: „hInstance“: nicht referenzierter Parameter
   Code wird generiert.
-  0 of 2675 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+  616 of 1896 functions (32.5%) were compiled, the rest were copied from previous compilation.
+    74 functions were new in current compilation
+    253 functions had inline decision re-evaluated but remain unchanged
   Codegenerierung ist abgeschlossen.
-  ImGui_dx11_base.vcxproj -> C:\Users\Vincent\Desktop\src\dx11\ImGui_dx11_base\x64\Release\ImGui_dx11_base.exe
+  ImGui_dx11_base.vcxproj -> C:\Users\Vincent\Desktop\ax-services.net\DX11_ImGui-Base\x64\Release\ImGui_dx11_base.exe
   Der Befehl "pwsh.exe" ist entweder falsch geschrieben oder
   konnte nicht gefunden werden.

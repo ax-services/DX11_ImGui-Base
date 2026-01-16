@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vincent\\Desktop\\ax-services.net\\DX11_ImGui-Base\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2E5ED5-8858-4D20-B677-6AB623B9594B}|ImGui_dx11_base\\ImGui_dx11_base.vcxproj|C:\\Users\\Vincent\\Desktop\\ax-services.net\\DX11_ImGui-Base\\ImGui_dx11_base\\src\\test.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C2E5ED5-8858-4D20-B677-6AB623B9594B}|ImGui_dx11_base\\ImGui_dx11_base.vcxproj|solutionrelative:ImGui_dx11_base\\src\\test.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2E5ED5-8858-4D20-B677-6AB623B9594B}|ImGui_dx11_base\\ImGui_dx11_base.vcxproj|C:\\Users\\Vincent\\Desktop\\ax-services.net\\DX11_ImGui-Base\\ImGui_dx11_base\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C2E5ED5-8858-4D20-B677-6AB623B9594B}|ImGui_dx11_base\\ImGui_dx11_base.vcxproj|solutionrelative:ImGui_dx11_base\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.h",
+              "DocumentMoniker": "C:\\Users\\Vincent\\Desktop\\ax-services.net\\DX11_ImGui-Base\\ImGui_dx11_base\\src\\test.h",
+              "RelativeDocumentMoniker": "ImGui_dx11_base\\src\\test.h",
+              "ToolTip": "C:\\Users\\Vincent\\Desktop\\ax-services.net\\DX11_ImGui-Base\\ImGui_dx11_base\\src\\test.h",
+              "RelativeToolTip": "ImGui_dx11_base\\src\\test.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-16T16:37:45.652Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Vincent\\Desktop\\ax-services.net\\DX11_ImGui-Base\\ImGui_dx11_base\\src\\main.cpp",
+              "RelativeDocumentMoniker": "ImGui_dx11_base\\src\\main.cpp",
+              "ToolTip": "C:\\Users\\Vincent\\Desktop\\ax-services.net\\DX11_ImGui-Base\\ImGui_dx11_base\\src\\main.cpp",
+              "RelativeToolTip": "ImGui_dx11_base\\src\\main.cpp",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAG8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-16T16:37:42.956Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

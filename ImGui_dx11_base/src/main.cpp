@@ -103,11 +103,8 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE, LPSTR, int)
         ImGui_ImplWin32_NewFrame();
         ImGui::NewFrame();
 
-        // Demo Window
-        ImGui::ShowDemoWindow();
         menu_test();
 
-        // Rendering
         ImGui::Render();
         const float clear_color[4] = { 0.f, 0.f, 0.f, 0.f }; // kompletter Hintergrund transparent
         g_pd3dDeviceContext->OMSetRenderTargets(1, &g_mainRenderTargetView, nullptr);
